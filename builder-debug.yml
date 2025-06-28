@@ -103,8 +103,8 @@ nsis:
     !macroend
 
     !addplugindir /x86-unicode "C:\Users\joeho\AppData\Local\electron-builder\Cache\nsis\nsis-resources-3.4.1\plugins\x86-unicode"
-    !include "C:\Users\joeho\AppData\Local\Temp\t-X0xsQo\0-messages.nsh"
-    !include "C:\Users\joeho\AppData\Local\Temp\t-X0xsQo\1-messages.nsh"
+    !include "C:\Users\joeho\AppData\Local\Temp\t-BfXGVn\0-messages.nsh"
+    !include "C:\Users\joeho\AppData\Local\Temp\t-BfXGVn\1-messages.nsh"
     !macro licensePage
       !insertmacro MUI_PAGE_LICENSE "C:\Users\joeho\OneDrive\Desktop\APN Client\license.md"
     !macroend
