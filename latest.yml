@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: N0DE-Setup-1.0.0.exe
+    sha512: q2S3r2AiTY3nOygWodbscDT/bd2jbC/bOomdKwl9LwoYjHHaqST1EbQZa4fpny8fzAV1uBF+8OjF8HPUisVdNg==
+    size: 89243359
+path: N0DE-Setup-1.0.0.exe
+sha512: q2S3r2AiTY3nOygWodbscDT/bd2jbC/bOomdKwl9LwoYjHHaqST1EbQZa4fpny8fzAV1uBF+8OjF8HPUisVdNg==
+releaseDate: '2025-06-28T13:02:44.022Z'
