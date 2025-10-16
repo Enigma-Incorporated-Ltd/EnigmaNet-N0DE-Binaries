@@ -12,31 +12,9 @@ files:
       - preload.js
       - apn-client-firebase-adminsdk-orps2-3ab2c5aa16.json
       - .env
-extraResources:
-  - from: Resources
-    to: Resources
-    filter:
-      - '**/*'
 win:
-  target:
-    - target: nsis
-      arch:
-        - x64
-    - target: appx
-      arch:
-        - x64
+  target: nsis
   icon: ./Images/n0de.ico
-  requestedExecutionLevel: requireAdministrator
-appx:
-  identityName: EnigmaIncorporatedLtd.N0DE
-  publisher: CN=Enigma Incorporated Ltd
-  publisherDisplayName: Enigma Incorporated Ltd
-  displayName: N0DE
-  applicationId: N0DE
-  backgroundColor: '#464646'
-  showNameOnTiles: true
-  languages:
-    - en-US
 nsis:
   oneClick: false
   installerIcon: ./Images/n0de.ico
