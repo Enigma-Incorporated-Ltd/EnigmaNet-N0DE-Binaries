@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.8
 files:
-  - url: N0DE-Setup-1.0.1.exe
-    sha512: Drz48KIkqM9uKEZ/6u1AtTPpqf2AyKHIy6rw3ZFqYsOeVJrwj3N9/cyS+nka6Bj9AKJd43gouE2WIU7RBnyqug==
-    size: 89244164
-path: N0DE-Setup-1.0.1.exe
-sha512: Drz48KIkqM9uKEZ/6u1AtTPpqf2AyKHIy6rw3ZFqYsOeVJrwj3N9/cyS+nka6Bj9AKJd43gouE2WIU7RBnyqug==
-releaseDate: '2025-06-28T16:35:30.585Z'
+  - url: N0DE-Setup-1.0.8.exe
+    sha512: YChzrQw/NeJFw0uTvrSIHK6zK+dHKrOA1eX6D2J0dQEZzDw+ZMkQ9n2Py5bjCtbQvkSx/34ISh2+zQ3oDcTWDQ==
+    size: 91134625
+path: N0DE-Setup-1.0.8.exe
+sha512: YChzrQw/NeJFw0uTvrSIHK6zK+dHKrOA1eX6D2J0dQEZzDw+ZMkQ9n2Py5bjCtbQvkSx/34ISh2+zQ3oDcTWDQ==
+releaseDate: '2025-10-16T03:56:46.437Z'
